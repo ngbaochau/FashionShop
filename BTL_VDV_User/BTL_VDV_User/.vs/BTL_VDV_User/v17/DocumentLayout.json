@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\api_4menshop_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|solutionrelative:api_4menshop_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\api_4menshop_user\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|solutionrelative:api_4menshop_user\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\api_4menshop_user\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|solutionrelative:api_4menshop_user\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\hoadonbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\hoadonbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\dathangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\dathangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\chuyenmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\chuyenmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\bll\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|solutionrelative:bll\\sanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\bll\\interfaces\\isanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\isanphambus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\interfaces\\isanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\isanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\sanphammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\sanphammodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\api_4menshop_user\\controllers\\hoadonbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|solutionrelative:api_4menshop_user\\controllers\\hoadonbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\historycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\historycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\interfaces\\ihoadonbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ihoadonbanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\bll\\hoadonbanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonbanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\bll\\interfaces\\ihoadonbanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ihoadonbanbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\api_4menshop_user\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|solutionrelative:api_4menshop_user\\controllers\\dathangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\api_4menshop_user\\controllers\\chuyenmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3596DF-DE76-4686-B5C7-BF0AB0977E05}|API_4Menshop_User\\API_4Menshop_User.csproj|solutionrelative:api_4menshop_user\\controllers\\chuyenmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\interfaces\\idathangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\idathangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\hoadonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\hoadonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\getallsizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\getallsizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\dathangmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\dathangmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\chitiethdmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\chitiethdmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\chuyenmucmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\chuyenmucmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\dal\\interfaces\\ichuyenmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFC0CE3-9946-45F0-81EB-A3189590E38D}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ichuyenmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\bll\\chuyenmucbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|solutionrelative:bll\\chuyenmucbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\bll\\interfaces\\ichuyenmucbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1377EA-AEEC-467C-80A4-0EA0A13D7D46}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ichuyenmucbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|d:\\nam 3\\reactjs\\reactjs\\btl_vdv_user\\btl_vdv_user\\datamodels\\datamodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0044DC-20F5-42D1-BEA3-4ECEAAE712BF}|DataModels\\DataModels.csproj|solutionrelative:datamodels\\datamodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\appsettings.json",
+              "RelativeDocumentMoniker": "API_4Menshop_User\\appsettings.json",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\appsettings.json",
+              "RelativeToolTip": "API_4Menshop_User\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T16:25:32.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPhamRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\SanPhamRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\SanPhamRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\SanPhamRepository.cs",
+              "RelativeToolTip": "DAL\\SanPhamRepository.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAADwv5IAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "API_4Menshop_User\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "API_4Menshop_User\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAlwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonBanRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\HoaDonBanRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonBanRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\HoaDonBanRepository.cs",
+              "RelativeToolTip": "DAL\\HoaDonBanRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Program.cs",
+              "RelativeDocumentMoniker": "API_4Menshop_User\\Program.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Program.cs",
+              "RelativeToolTip": "API_4Menshop_User\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatHangRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\DatHangRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DatHangRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\DatHangRepository.cs",
+              "RelativeToolTip": "DAL\\DatHangRepository.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAYwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChuyenMucRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\ChuyenMucRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\ChuyenMucRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\ChuyenMucRepository.cs",
+              "RelativeToolTip": "DAL\\ChuyenMucRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamBUS.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\SanPhamBUS.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamBUS.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\SanPhamBUS.cs",
+              "RelativeToolTip": "BLL\\SanPhamBUS.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatHangController.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\DatHangController.cs",
+              "RelativeDocumentMoniker": "API_4Menshop_User\\Controllers\\DatHangController.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\DatHangController.cs",
+              "RelativeToolTip": "API_4Menshop_User\\Controllers\\DatHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISanPhamBUS.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\Interfaces\\ISanPhamBUS.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ISanPhamBUS.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\Interfaces\\ISanPhamBUS.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ISanPhamBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISanPhamRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\ISanPhamRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ISanPhamRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\ISanPhamRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ISanPhamRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHoaDonBanRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\IHoaDonBanRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IHoaDonBanRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\IHoaDonBanRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IHoaDonBanRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistoryCart.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\HistoryCart.cs",
+              "RelativeDocumentMoniker": "DataModels\\HistoryCart.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\HistoryCart.cs",
+              "RelativeToolTip": "DataModels\\HistoryCart.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDonBanController.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\HoaDonBanController.cs",
+              "RelativeDocumentMoniker": "API_4Menshop_User\\Controllers\\HoaDonBanController.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\HoaDonBanController.cs",
+              "RelativeToolTip": "API_4Menshop_User\\Controllers\\HoaDonBanController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAuwGQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HoaDonBanBUS.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\HoaDonBanBUS.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonBanBUS.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\HoaDonBanBUS.cs",
+              "RelativeToolTip": "BLL\\HoaDonBanBUS.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPhamModel.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\SanPhamModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\SanPhamModel.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\SanPhamModel.cs",
+              "RelativeToolTip": "DataModels\\SanPhamModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHoaDonBanBUS.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\Interfaces\\IHoaDonBanBUS.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IHoaDonBanBUS.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\Interfaces\\IHoaDonBanBUS.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IHoaDonBanBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChuyenMucController.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\ChuyenMucController.cs",
+              "RelativeDocumentMoniker": "API_4Menshop_User\\Controllers\\ChuyenMucController.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\API_4Menshop_User\\Controllers\\ChuyenMucController.cs",
+              "RelativeToolTip": "API_4Menshop_User\\Controllers\\ChuyenMucController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDatHangRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\IDatHangRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IDatHangRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\IDatHangRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IDatHangRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllSizeModel.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\GetAllSizeModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\GetAllSizeModel.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\GetAllSizeModel.cs",
+              "RelativeToolTip": "DataModels\\GetAllSizeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HoaDonModel.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\HoaDonModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\HoaDonModel.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\HoaDonModel.cs",
+              "RelativeToolTip": "DataModels\\HoaDonModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatHangModel.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\DatHangModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\DatHangModel.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\DatHangModel.cs",
+              "RelativeToolTip": "DataModels\\DatHangModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietHDModel.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\ChiTietHDModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\ChiTietHDModel.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\ChiTietHDModel.cs",
+              "RelativeToolTip": "DataModels\\ChiTietHDModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChuyenMucModel.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\ChuyenMucModel.cs",
+              "RelativeDocumentMoniker": "DataModels\\ChuyenMucModel.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\ChuyenMucModel.cs",
+              "RelativeToolTip": "DataModels\\ChuyenMucModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChuyenMucBUS.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\ChuyenMucBUS.cs",
+              "RelativeDocumentMoniker": "BLL\\ChuyenMucBUS.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\ChuyenMucBUS.cs",
+              "RelativeToolTip": "BLL\\ChuyenMucBUS.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IChuyenMucBUS.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\Interfaces\\IChuyenMucBUS.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IChuyenMucBUS.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\BLL\\Interfaces\\IChuyenMucBUS.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IChuyenMucBUS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IChuyenMucRepository.cs",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\IChuyenMucRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IChuyenMucRepository.cs",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DAL\\Interfaces\\IChuyenMucRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IChuyenMucRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:25:32.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DataModels.csproj",
+              "DocumentMoniker": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\DataModels.csproj",
+              "RelativeDocumentMoniker": "DataModels\\DataModels.csproj",
+              "ToolTip": "D:\\NAM 3\\ReactJS\\ReactJS\\BTL_VDV_User\\BTL_VDV_User\\DataModels\\DataModels.csproj",
+              "RelativeToolTip": "DataModels\\DataModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T16:25:32.426Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

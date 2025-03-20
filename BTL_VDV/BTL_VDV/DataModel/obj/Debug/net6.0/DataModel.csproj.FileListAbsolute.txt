@@ -1,0 +1,33 @@
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\DataModel\obj\Debug\net6.0\ref\DataModel.dll

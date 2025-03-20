@@ -1,0 +1,174 @@
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\appsettings.Development.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\appsettings.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.exe
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.deps.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.runtimeconfig.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\DataModel.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\DataModel.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.AssemblyReference.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfoInputs.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfo.cs
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.CoreCompileInputs.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cs
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.API_BTL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.build.API_BTL.props
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_BTL.props
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_BTL.props
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\scopedcss\bundle\API_BTL.styles.css
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.CopyComplete
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\refint\API_BTL.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.pdb
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.genruntimeconfig.cache
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\obj\Debug\net6.0\ref\API_BTL.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\JWT.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\System.Text.Json.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Năm 3- Kì 1\Phát triển phần mềm hướng dịch vụ (2+1)\BTL\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\appsettings.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.exe
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.deps.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.runtimeconfig.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\JWT.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataAccessLayer.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataModel.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataModel.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.AssemblyReference.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfoInputs.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfo.cs
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.CoreCompileInputs.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.API_BTL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.build.API_BTL.props
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_BTL.props
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_BTL.props
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\scopedcss\bundle\API_BTL.styles.css
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.CopyComplete
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\refint\API_BTL.dll
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.pdb
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.genruntimeconfig.cache
+D:\New folder (2)\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\ref\API_BTL.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\appsettings.Development.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\appsettings.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.exe
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.deps.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.runtimeconfig.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\API_BTL.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\JWT.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\System.Text.Json.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataAccessLayer.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataModel.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataModel.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.AssemblyReference.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfoInputs.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.AssemblyInfo.cs
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.CoreCompileInputs.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cs
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.MvcApplicationPartsAssemblyInfo.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.build.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.development.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.API_BTL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.build.API_BTL.props
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_BTL.props
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_BTL.props
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\scopedcss\bundle\API_BTL.styles.css
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.csproj.Up2Date
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\refint\API_BTL.dll
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.pdb
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\API_BTL.genruntimeconfig.cache
+D:\NAM 3\ReactJS\ReactJS\BTL_VDV\BTL_VDV\API_BTL\obj\Debug\net6.0\ref\API_BTL.dll
